@@ -1,0 +1,24 @@
+body
+{
+    font-family: 'Lato', sans-serif;
+}
+nav
+{
+    font-weight: bold;
+}
+nav ul li
+{
+    padding: 10px;
+}
+.menu-items
+{
+    background-color: #a5a5a5;
+}
+
+@media (max-width: 990px)
+{
+    nav ul li
+    {
+        text-align: center;
+    }
+}
